@@ -6,7 +6,7 @@ Structures and/or utilized techniques
 * Queue
 * Stack
 * Hashmap
-* Binary Search and Interpolation
+* Binary Search and Interpolation Search
 * Binary Search Tree
 * AVL Tree
 * B-Tree
