@@ -5,7 +5,7 @@ Estruturas e/ou técnicas utilizadas:
 * Lista Duplamente Encadeada
 * Fila
 * Pilha
-* Função Hash
+* Hashmap
 * Busca Binária e Interpolada
 * Árvore Binária de Busca
 * Árvore AVL
