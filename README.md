@@ -1,15 +1,15 @@
 # Estrutura de Dados
-Projetos para a disciplina Estrutura de Dados
+Projects for my Data Structure class
 
-Estruturas e/ou técnicas utilizadas:
-* Lista Duplamente Encadeada
-* Fila
-* Pilha
+Structures and/or utilized techniques 
+* Doubly Linked List
+* Queue
+* Stack
 * Hashmap
-* Busca Binária e Interpolada
-* Árvore Binária de Busca
-* Árvore AVL
-* Árvore B
-* Árvore B+
+* Binary Search and Interpolation
+* Binary Search Tree
+* AVL Tree
+* B-Tree
+* B+ Tree
 * Heap
-* Fila de Prioridade
+* Priority Queue
